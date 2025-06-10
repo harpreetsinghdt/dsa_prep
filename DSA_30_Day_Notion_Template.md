@@ -3,12 +3,12 @@
 Welcome to your 30-day DSA challenge to prepare for FAANG interviews. Mark each task as complete when done!
 
 ## ✅ Task #1 - 2025-06-09 (Monday)
-- [ ] **Topic:** Arrays (2-pointer, sliding window basics)
+- [Done] **Topic:** Arrays (2-pointer, sliding window basics)
 - [ ] **Study Resource:** _(Add your notes or links here)_
 - [ ] **Practice Problems:** _(List problems you've solved)_
 
 ## ✅ Task #2 - 2025-06-10 (Tuesday)
-- [ ] **Topic:** Strings (manipulation, hashing)
+- [Done] **Topic:** Strings (manipulation, hashing)
 - [ ] **Study Resource:** _(Add your notes or links here)_
 - [ ] **Practice Problems:** _(List problems you've solved)_
 
