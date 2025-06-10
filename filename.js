@@ -1,6 +1,6 @@
 const functionname = (arr) => {
-  const res = 0;
+  const res = arr;
   return res;
 };
-const res = functionname(arr=[]);
+const res = functionname([1,2,3]);
 console.log(res);
