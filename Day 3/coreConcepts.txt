@@ -1,0 +1,6 @@
+1. Core Concepts
+Concept	JavaScript Implementation	Time Complexity
+Node Structure	class Node { constructor(val) { this.val = val; this.next = null; }}	-
+Traversal	while (current) { current = current.next; }	O(n)
+Insertion	newNode.next = prev.next; prev.next = newNode;	O(1)
+Deletion	prev.next = prev.next.next; (GC handles orphaned nodes)	O(1)
