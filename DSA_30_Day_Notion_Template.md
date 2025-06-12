@@ -22,7 +22,7 @@ Welcome to your 30-day DSA challenge to prepare for FAANG interviews. Mark each 
 
 ## ✅ Task #4 - 2025-06-12 (Thursday)
 
-- [ ] **Topic:** Stacks and Queues (including monotonic stack)
+- [Done] **Topic:** Stacks and Queues (including monotonic stack)
 - [ ] **Study Resource:** _(Add your notes or links here)_
 - [ ] **Practice Problems:** _(List problems you've solved)_
 
