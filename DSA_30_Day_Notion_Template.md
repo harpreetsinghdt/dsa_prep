@@ -28,7 +28,7 @@ Welcome to your 30-day DSA challenge to prepare for FAANG interviews. Mark each 
 
 ## ✅ Task #5 - 2025-06-13 (Friday)
 
-- [ ] **Topic:** HashMap & HashSet (frequency maps, group anagrams)
+- [Done] **Topic:** HashMap & HashSet (frequency maps, group anagrams)
 - [ ] **Study Resource:** _(Add your notes or links here)_
 - [ ] **Practice Problems:** _(List problems you've solved)_
 
