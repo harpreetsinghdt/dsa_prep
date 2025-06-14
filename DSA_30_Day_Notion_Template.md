@@ -34,7 +34,7 @@ Welcome to your 30-day DSA challenge to prepare for FAANG interviews. Mark each 
 
 ## ✅ Task #6 - 2025-06-14 (Saturday)
 
-- [ ] **Topic:** Recursion & Backtracking basics
+- [Done ] **Topic:** Recursion & Backtracking basics
 - [ ] **Study Resource:** _(Add your notes or links here)_
 - [ ] **Practice Problems:** _(List problems you've solved)_
 
