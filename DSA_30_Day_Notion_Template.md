@@ -34,37 +34,37 @@ Welcome to your 30-day DSA challenge to prepare for FAANG interviews. Mark each 
 
 ## ✅ Task #6 - 2025-06-14 (Saturday)
 
-- [Done ] **Topic:** Recursion & Backtracking basics
+- [Done] **Topic:** Recursion & Backtracking basics
 - [ ] **Study Resource:** _(Add your notes or links here)_
 - [ ] **Practice Problems:** _(List problems you've solved)_
 
 ## ✅ Task #7 - 2025-06-15 (Sunday)
 
-- [ ] **Topic:** Quiz + 5 Leetcode Easy problems from above topics
+- [Done] **Topic:** Quiz + 5 Leetcode Easy problems from above topics
 - [ ] **Study Resource:** _(Add your notes or links here)_
 - [ ] **Practice Problems:** _(List problems you've solved)_
 
 ## ✅ Task #8 - 2025-06-16 (Monday)
 
-- [ ] **Topic:** Binary Search (lower/upper bound, rotated array)
+- [Done] **Topic:** Binary Search (lower/upper bound, rotated array)
 - [ ] **Study Resource:** _(Add your notes or links here)_
 - [ ] **Practice Problems:** _(List problems you've solved)_
 
 ## ✅ Task #9 - 2025-06-17 (Tuesday)
 
-- [ ] **Topic:** Sliding Window + Two Pointer (harder problems)
+- [Done] **Topic:** Sliding Window + Two Pointer (harder problems)
 - [ ] **Study Resource:** _(Add your notes or links here)_
 - [ ] **Practice Problems:** _(List problems you've solved)_
 
 ## ✅ Task #10 - 2025-06-18 (Wednesday)
 
-- [ ] **Topic:** Sorting & Custom Comparators
+- [Done] **Topic:** Sorting & Custom Comparators
 - [ ] **Study Resource:** _(Add your notes or links here)_
 - [ ] **Practice Problems:** _(List problems you've solved)_
 
 ## ✅ Task #11 - 2025-06-19 (Thursday)
 
-- [ ] **Topic:** Recursion + Backtracking (N queens, subset)
+- [Done] **Topic:** Recursion + Backtracking (N queens, subset)
 - [ ] **Study Resource:** _(Add your notes or links here)_
 - [ ] **Practice Problems:** _(List problems you've solved)_
 

@@ -13,15 +13,15 @@ var reorderLogFiles = function (logs) {
   };
 
   const digitsLogs = [];
-  const lettterLogs = [];
+  const letterLogs = [];
   for (const log of logs) {
     if (isNum(body(log)[0])) {
       digitsLogs.push(log);
     } else {
-      lettterLogs.push(log);
+      letterLogs.push(log);
     }
   }
-  return [...lettterLogs.sort(compare), ...digitsLogs];
+  return [...letterLogs.sort(compare), ...digitsLogs];
 };
 console.log(
   reorderLogFiles([
