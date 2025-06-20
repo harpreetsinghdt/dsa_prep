@@ -70,7 +70,7 @@ Welcome to your 30-day DSA challenge to prepare for FAANG interviews. Mark each 
 
 ## ✅ Task #12 - 2025-06-20 (Friday)
 
-- [ ] **Topic:** Trees (DFS/BFS, Inorder/Pre/Post traversal)
+- [Done] **Topic:** Trees (DFS/BFS, Inorder/Pre/Post traversal)
 - [ ] **Study Resource:** _(Add your notes or links here)_
 - [ ] **Practice Problems:** _(List problems you've solved)_
 
