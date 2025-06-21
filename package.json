@@ -1,0 +1,12 @@
+{
+  "name": "dsa-prep",
+  "version": "1.0.0",
+  "description": "## [DSA 30 Day FAANG Prep](https://www.notion.so/DSA-30-Day-FAANG-Prep-20db2efcf8518055912adf3ce69c114b)",
+  "main": "buildTreeFromArray.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
