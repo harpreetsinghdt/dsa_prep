@@ -88,7 +88,7 @@ Welcome to your 30-day DSA challenge to prepare for FAANG interviews. Mark each 
 
 ## ✅ Task #15 - 2025-06-23 (Monday)
 
-- [ ] **Topic:** Graphs (BFS/DFS, detect cycle, connected components)
+- [Done] **Topic:** Graphs (BFS/DFS, detect cycle, connected components)
 - [ ] **Study Resource:** _(Add your notes or links here)_
 - [ ] **Practice Problems:** _(List problems you've solved)_
 
