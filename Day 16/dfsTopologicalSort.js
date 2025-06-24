@@ -1,8 +1,9 @@
 // DFS-Based Topological Sort
 function dfsTopoSort(numCourses, prerequisites) {
   const graph = Array.from({ length: numCourses }, () => []);
+  console.log(graph);
   for (let [v, u] of prerequisites) graph[u].push(v);
-
+  console.log(graph);
   const visited = new Set();
   const visiting = new Set(); // For cycle detection
   const result = [];
@@ -27,3 +28,14 @@ function dfsTopoSort(numCourses, prerequisites) {
 
   return result.reverse();
 }
+const numCourses = 5,
+  prerequisites = [
+    [3, 2],
+    [1, 0],
+    [3, 1],
+    [2, 1],
+    [2, 0],
+    [2, 3],
+    [3, 0],
+  ];
+console.log(dfsTopoSort(numCourses, prerequisites));
