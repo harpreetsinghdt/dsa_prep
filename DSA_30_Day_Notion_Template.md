@@ -94,7 +94,7 @@ Welcome to your 30-day DSA challenge to prepare for FAANG interviews. Mark each 
 
 ## ✅ Task #16 - 2025-06-24 (Tuesday)
 
-- [ ] **Topic:** Topological Sort + Kahn’s Algorithm
+- [Done] **Topic:** Topological Sort + Kahn’s Algorithm
 - [ ] **Study Resource:** _(Add your notes or links here)_
 - [ ] **Practice Problems:** _(List problems you've solved)_
 
