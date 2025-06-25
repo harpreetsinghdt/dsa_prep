@@ -100,7 +100,7 @@ Welcome to your 30-day DSA challenge to prepare for FAANG interviews. Mark each 
 
 ## ✅ Task #17 - 2025-06-25 (Wednesday)
 
-- [ ] **Topic:** Heaps & Priority Queue (Top K, Median finder)
+- [Done] **Topic:** Heaps & Priority Queue (Top K, Median finder)
 - [ ] **Study Resource:** _(Add your notes or links here)_
 - [ ] **Practice Problems:** _(List problems you've solved)_
 
