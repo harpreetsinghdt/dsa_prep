@@ -50,6 +50,7 @@ class Trie {
     }
     return true;
   }
+
 }
 const trie = new Trie();
 // console.log(trie);
@@ -66,19 +67,20 @@ trie.insert("dad");
 // console.log(trie.node);
 
 // One by one search strings
-const searchKeys = ["do", "gee", "bat"];
-console.log(
-  searchKeys.map((s) => (trie.search(s) ? "true" : "false")).join(" ")
-);
+// const searchKeys = ["do", "gee", "bat"];
+// console.log(
+//   searchKeys.map((s) => (trie.search(s) ? "true" : "false")).join(" ")
+// );
 
 // console.log(trie.search("do"));
 // console.log(trie.search("gee"));
 // console.log(trie.search("bat"));
-// console.log(trie.search("an"));
+// console.log(trie.search("and"));
 
-console.log(trie.isPrefix("an"));
-// One by one search for prefixes
-const prefixKeys = ["ge", "ba", "do", "de"];
-console.log(
-  prefixKeys.map((s) => (trie.isPrefix(s) ? "true" : "false")).join(" ")
-);
+// console.log(trie.isPrefix("an"));
+// // One by one search for prefixes
+// const prefixKeys = ["ge", "ba", "do", "de"];
+// console.log(
+//   prefixKeys.map((s) => (trie.isPrefix(s) ? "true" : "false")).join(" ")
+// );
+
