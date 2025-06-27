@@ -106,13 +106,13 @@ Welcome to your 30-day DSA challenge to prepare for FAANG interviews. Mark each 
 
 ## ✅ Task #18 - 2025-06-26 (Thursday)
 
-- [ ] **Topic:** Tries (insert, search, prefix matching)
+- [Done ] **Topic:** Tries (insert, search, prefix matching)
 - [ ] **Study Resource:** _(Add your notes or links here)_
 - [ ] **Practice Problems:** _(List problems you've solved)_
 
 ## ✅ Task #19 - 2025-06-27 (Friday)
 
-- [ ] **Topic:** Dynamic Programming Intro (0/1 Knapsack, Fibonacci)
+- [Done ] **Topic:** Dynamic Programming Intro (0/1 Knapsack, Fibonacci)
 - [ ] **Study Resource:** _(Add your notes or links here)_
 - [ ] **Practice Problems:** _(List problems you've solved)_
 
