@@ -118,25 +118,25 @@ Welcome to your 30-day DSA challenge to prepare for FAANG interviews. Mark each 
 
 ## ✅ Task #20 - 2025-06-28 (Saturday)
 
-- [ ] **Topic:** DP Continued (House Robber, Subset Sum)
+- [Done ] **Topic:** DP Continued (House Robber, Subset Sum)
 - [ ] **Study Resource:** _(Add your notes or links here)_
 - [ ] **Practice Problems:** _(List problems you've solved)_
 
 ## ✅ Task #21 - 2025-06-29 (Sunday)
 
-- [ ] **Topic:** Weekly mock test + Leetcode contest
+- [Done ] **Topic:** Weekly mock test + Leetcode contest
 - [ ] **Study Resource:** _(Add your notes or links here)_
 - [ ] **Practice Problems:** _(List problems you've solved)_
 
 ## ✅ Task #22 - 2025-06-30 (Monday)
 
-- [ ] **Topic:** Graph Advanced (Dijkstra, Union-Find, MST)
+- [Done ] **Topic:** Graph Advanced (Dijkstra, Union-Find, MST)
 - [ ] **Study Resource:** _(Add your notes or links here)_
 - [ ] **Practice Problems:** _(List problems you've solved)_
 
 ## ✅ Task #23 - 2025-07-01 (Tuesday)
 
-- [ ] **Topic:** DP Advanced (Palindromic Substrings, LIS, DP on Grids)
+- [Done ] **Topic:** DP Advanced (Palindromic Substrings, LIS, DP on Grids)
 - [ ] **Study Resource:** _(Add your notes or links here)_
 - [ ] **Practice Problems:** _(List problems you've solved)_
 
