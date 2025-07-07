@@ -1,3 +1,5 @@
+// https://www.geeksforgeeks.org/dsa/maximum-and-minimum-in-an-array/
+
 function main(arr) {
   const startTime = performance.now(); // Start time
   arr.sort((a, b) => a - b);

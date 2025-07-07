@@ -1,3 +1,5 @@
+// https://www.geeksforgeeks.org/dsa/maximum-and-minimum-in-an-array/
+
 function main(arr) {
   function getMin() {
     let mini = Infinity;
