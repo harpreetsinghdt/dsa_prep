@@ -1,0 +1,11 @@
+Database replication
+
+what is replication
+primary database (main database, master database) has multiple exact copies of itself called as secondary database or replacas.
+
+if for some reasons, the primary database goes crash or dowm then we have secondary database which is exact copy of primary database so we will not loose our database and our system or application will work seemlessly.
+
+so then secondary db becomes the master db and saves the system failure
+
+
+
