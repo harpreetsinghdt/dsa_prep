@@ -1,0 +1,31 @@
+Database sharding
+
+- vertical partionting: on the basis of columns, store columns on diff database instacnes
+
+- horizontal partionting: on the basis of rows, store rows on diff dbs it is called sharding also
+
+
+- logical shards: 
+- physical shards: it holds logical shards
+
+advantages:
+- more and more data can be stored
+- better query seach, optimized seach, 
+- distributed db as per geography
+- more availability
+- 
+
+
+- algorithmic sharding: app/client knows which shard to use write or read, it uses hashing function to decide to use which shard, to increase or decrease the machines data needs to bemove from shards which is one disadvantages due ti change in hashing function
+
+- dynamic sharding: outside module take care of choosing the shard for write or read.
+
+
+how to choose a shard key: 
+
+
+Key based sharding:
+
+range based sharding:
+
+directory based sharding: 
