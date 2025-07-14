@@ -1,5 +1,5 @@
 var spiralOrder = function (mat) {
-  if (!mat.length || !matrix[0].length) return [];
+  if (!mat.length || !mat[0].length) return [];
   let res = [];
   let top = 0,
     bottom = mat.length - 1;
